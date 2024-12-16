@@ -21,13 +21,6 @@
       </picture></a>
   </p>
 
-  <p align="center">
-    <a href="https://arifszn.github.io/gitprofile">View Demo</a>
-    ·
-    <a href="https://github.com/arifszn/gitprofile/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/arifszn/gitprofile/discussions">Request Feature</a>
-  </p>
 </p>
 
 </br>
